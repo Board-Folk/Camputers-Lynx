@@ -4,4 +4,4 @@
 
 Lynx MK1 16K Memory Expansion
 
-This is an replica, with modifications moving a capacitor and adding holes for straight pin socket headers.
+This is a replica, with modifications moving a capacitor and adding holes for straight pin socket headers.
