@@ -8,9 +8,9 @@ Repository for the 2023 Board Folk Recreation of the main boards of the Camputer
 
 The original 48/96K system can be found in the Lynx 96 folder. The system needs the 16K RAM expansion board to operate (see Expansions folder). This was originally supplied as a 48K system (16K+16K+16K) then retrofitted after market by the manufacturer to be a 96K system (64K+16K+16K). It's the same board.
 
-The second system that started production, the 128, is in the Lynx 128 folder. This system in production had presets to 128K, though could have 192K fitted. The 128K preset board (untested) can be found here. There's also a board without presets which can be jumpered to use 192K can be found in the archive subfolder off here. 
+The second system that started production, the 128, is in the Lynx 128 folder. This system in production had presets to 128K, though could have 192K fitted. The 128K preset board (untested) can be found here. There's also a tested board without presets which can be jumpered to use 192K and can be found in the archive subfolder off here. 
 
-The unjumpered board without presets has been tested, and seems to work fine, but any attempts for it to use 192K failed. It's preceived that it might need a different set of ROMs that we don't have. We're not experts and will have to defer to the Lynx community on that.
+Though the board without presets and appropriate jumpers set has been tested, and seems to work fine, any attempts for it to use 192K failed. It's perceived that it might need a different set of ROMs that we don't have. We're not experts and will have to defer to the Lynx community on that. See the info folder in there for jumper settings.
 
 Be wary, the two systems aren't 100% compatible. The most compatible system is a Lynx 48 for games. The Lynx 128, compatibility was much reduced, though CP/M (untested) was an option with ROM replacements and a disc interface.
 
