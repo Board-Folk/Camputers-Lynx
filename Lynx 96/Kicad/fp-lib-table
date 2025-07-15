@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "96K-Lynx")(type "KiCad")(uri "${KIPRJMOD}/96K-Lynx.pretty")(options "")(descr ""))
+)
